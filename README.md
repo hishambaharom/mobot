@@ -5,7 +5,7 @@ mobile robot base on ros2
 Component:
 1) BLDC Motor
 2) BLDC Motor Driver:
-![alt text]   file:///home/shahrol/project/mobot_v2/motor_driver.jpeg
+![aa](file:///home/shahrol/project/mobot_v2/motor_driver.jpeg)
 
 4) Lidar: YD Lidar 
 

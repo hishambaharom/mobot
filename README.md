@@ -8,8 +8,10 @@ Component:
 ![motor_driver](https://github.com/hishambaharom/mobot/assets/113874406/4a5874f9-b789-4892-b6f6-b08a030594c6)
 
 4) Lidar: YD Lidar
-5) STM32F103 Bluepill
-6) RPI3
-7) 
+   ![ydlidar_x2l](https://github.com/hishambaharom/mobot/assets/113874406/3ebee12d-5c96-449d-a0c5-89f9252b6cde)
+
+6) STM32F103 Bluepill
+7) RPI3
+8) 
 
 
